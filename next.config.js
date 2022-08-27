@@ -3,7 +3,7 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  reactStrictMode: true,
+  reactStrictMode: false,
   swcMinify: true,
   images: {
     domains: ['media-exp1.licdn.com', 'lh3.googleusercontent.com'],
